@@ -1,4 +1,6 @@
 # hello-world
-Now it's time to make some changes. 
+Now it's time to make some changes again. 
 
-This change is made on Aug. 24, 14:35, EDT
+firstly, delete this sentence, 
+
+then add another one. 
